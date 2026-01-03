@@ -1,16 +1,46 @@
-# Money-Tracker
+# 💰 Money Tracker App
 
-A new Flutter project.
+Money Tracker is a **Flutter-based mobile application** designed to help users record daily income and expenses.  
+This project was created as a learning exercise to understand the fundamentals of Flutter development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- Add income transactions
+- Add expense transactions
+- View transaction history
+- Calculate total income and expenses
+- Simple and user-friendly UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter**
+- **Dart**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📚 Reference
+This project is inspired by the following YouTube tutorial playlist:
+
+https://youtube.com/playlist?list=PLXTfmstF10qCoJ9GBE0iZt4pRP_nE4K56
+
+The tutorial was used as a learning reference, with adjustments and reimplementation made during development.
+
+---
+
+## 🚀 How to Run the Project
+1. Make sure Flutter is installed
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/Arsyaaahhh/Money-Tracker.git
+3. Navigate to the project directory:
+   ```bash
+   cd Money-Tracker
+4. Install dependencies:
+   ```bash
+   flutter pub get
+5. Run the application:
+   ```bash
+   flutter run
+
